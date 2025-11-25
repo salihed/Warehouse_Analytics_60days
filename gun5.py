@@ -160,4 +160,4 @@ print(f"4. Extra Time as a Percentage of Annual Workload: {extra_time_labor_pct*
 print(f"5. Estimated ANNUAL EXTRA LABOR COST due to Slow Zone: ${extra_labor_cost_usd:,.2f} USD")
 print(f"   (Calculation based on Gross Annual Labor Cost: ${GROSS_ANNUAL_LABOR_COST:,.0f}/year)")
 print("Dual-Axis Chart saved as 'inventory_efficiency_and_cost_analysis_v2.png'.")
-print("="*70)
+print("="*70)   
